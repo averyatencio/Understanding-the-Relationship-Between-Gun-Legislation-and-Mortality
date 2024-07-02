@@ -1,5 +1,6 @@
 # Understanding-the-Relationship-Between-Gun-Legislation-and-Mortality
 # Below is the code used to create the synthetic control, the entire replication package is available in the main branch and includes all R codes and Stata codes used in the analysis and the excels needed to complete te repliation 
+
 ######################################## Template loop #########################
 
 CT_Synth <- CT_Synth %>%
