@@ -3,6 +3,7 @@ library(ggplot2)
 library(dplyr)
 
 ################################## California ###################################
+
 CA_Mortality <- read_excel("Documents/Master's Thesis/Public Data/FourState_Mortality_1979-2016.xlsx", sheet = "California")
 
 #making suppressed estimates less than 1 = to 1 and other values whole numbers
